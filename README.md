@@ -620,7 +620,5 @@ Como evolução futura do projeto, podem ser implementados:
 # 16. Conclusão
 
 A API Connect apresenta uma estrutura inicial de back-end organizada e modular, contemplando a configuração do ambiente, criação do servidor HTTP, interpretação de JSON, organização das responsabilidades, persistência provisória e implementação das operações CRUD.
-
 A utilização de rotas, controladores e uma camada específica para os dados proporciona uma base adequada para a evolução do MVP.
-
 Os endpoints foram preparados para receber requisições HTTP e retornar respostas JSON padronizadas, utilizando códigos de status apropriados para situações de sucesso e erro.
